@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6006dce.css",
-    "main.js": "/static/js/main.d39a3137.js",
-    "index.html": "/index.html",
-    "main.a6006dce.css.map": "/static/css/main.a6006dce.css.map",
-    "main.d39a3137.js.map": "/static/js/main.d39a3137.js.map"
+    "main.css": "/m2-pmvic-website/static/css/main.a6006dce.css",
+    "main.js": "/m2-pmvic-website/static/js/main.d39a3137.js",
+    "index.html": "/m2-pmvic-website/index.html",
+    "main.a6006dce.css.map": "/m2-pmvic-website/static/css/main.a6006dce.css.map",
+    "main.d39a3137.js.map": "/m2-pmvic-website/static/js/main.d39a3137.js.map"
   },
   "entrypoints": [
     "static/css/main.a6006dce.css",
