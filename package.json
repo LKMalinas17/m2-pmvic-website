@@ -16,12 +16,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://LKMalinas17.github.io/m2-pmvic-website",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-
   "browserslist": {
     "production": [
       ">0.2%",
